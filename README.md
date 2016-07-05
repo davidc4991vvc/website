@@ -1,2 +1,3 @@
-# my-website
-GitHub Ultimate: Master Git and GitHub - Beginner to Expert
+# My Website
+
+This is a really awesome website
